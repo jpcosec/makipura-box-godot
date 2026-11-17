@@ -7,7 +7,7 @@ Linux x86_64 con escritorio gráfico y pantalla táctil o mouse. El instalador n
 ## Instalación
 
 ```bash
-git clone https://github.com/jpruizAntonIA/makipura-box-godot.git
+git clone https://github.com/jpcosec/makipura-box-godot.git
 cd makipura-box-godot
 ./installer.sh
 ~/.local/bin/makipura-box
