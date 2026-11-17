@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160" fill="none">
+  <!-- Soft shadow -->
+  <ellipse cx="80" cy="142" rx="45" ry="10" fill="#a7f3d0" opacity="0.6"/>
+
+  <!-- Back legs / feet -->
+  <ellipse cx="40" cy="125" rx="16" ry="9" fill="#10b981" transform="rotate(-15 40 125)"/>
+  <circle cx="28" cy="122" r="5" fill="#34d399"/>
+  <circle cx="34" cy="116" r="5" fill="#34d399"/>
+  <circle cx="44" cy="115" r="5" fill="#34d399"/>
+
+  <ellipse cx="120" cy="125" rx="16" ry="9" fill="#10b981" transform="rotate(15 120 125)"/>
+  <circle cx="132" cy="122" r="5" fill="#34d399"/>
+  <circle cx="126" cy="116" r="5" fill="#34d399"/>
+  <circle cx="116" cy="115" r="5" fill="#34d399"/>
+
+  <!-- Body -->
+  <ellipse cx="80" cy="98" rx="42" ry="34" fill="#10b981"/>
+  <!-- Belly -->
+  <ellipse cx="80" cy="103" rx="28" ry="22" fill="#d1fae5"/>
+
+  <!-- Eye bumps -->
+  <circle cx="56" cy="52" r="20" fill="#10b981"/>
+  <circle cx="104" cy="52" r="20" fill="#10b981"/>
+
+  <!-- Eye whites -->
+  <circle cx="56" cy="52" r="14" fill="#ffffff"/>
+  <circle cx="104" cy="52" r="14" fill="#ffffff"/>
+
+  <!-- Eye pupils -->
+  <circle cx="58" cy="51" r="7" fill="#064e3b"/>
+  <circle cx="102" cy="51" r="7" fill="#064e3b"/>
+
+  <!-- Eye glints -->
+  <circle cx="55" cy="48" r="2.5" fill="#ffffff"/>
+  <circle cx="99" cy="48" r="2.5" fill="#ffffff"/>
+
+  <!-- Cheeks -->
+  <ellipse cx="46" cy="78" rx="7" ry="4.5" fill="#f472b6" opacity="0.65"/>
+  <ellipse cx="114" cy="78" rx="7" ry="4.5" fill="#f472b6" opacity="0.65"/>
+
+  <!-- Smiling mouth -->
+  <path d="M62 76 Q80 92 98 76" stroke="#064e3b" stroke-width="4" stroke-linecap="round" fill="none"/>
+
+  <!-- Tiny tongue -->
+  <path d="M74 83 Q80 90 86 83 Z" fill="#fb7185"/>
+
+  <!-- Front arms jumping/stretching open in joy -->
+  <path d="M46 92 Q25 72 20 54" stroke="#10b981" stroke-width="11" stroke-linecap="round" fill="none"/>
+  <circle cx="19" cy="52" r="7" fill="#34d399"/>
+  <circle cx="13" cy="56" r="4.5" fill="#34d399"/>
+  <circle cx="17" cy="44" r="4.5" fill="#34d399"/>
+
+  <path d="M114 92 Q135 72 140 54" stroke="#10b981" stroke-width="11" stroke-linecap="round" fill="none"/>
+  <circle cx="141" cy="52" r="7" fill="#34d399"/>
+  <circle cx="147" cy="56" r="4.5" fill="#34d399"/>
+  <circle cx="143" cy="44" r="4.5" fill="#34d399"/>
+</svg>
